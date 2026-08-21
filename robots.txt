@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://khezarditalo2006-glitch.github.io/khezar-portfolio/sitemap.xml
